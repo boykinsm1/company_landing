@@ -19,6 +19,14 @@
   padding: 50px 0;
 }
 
+.contact {
+  background: #f8f9fa;
+  padding: 50px 0;
+  font-weight: bold;
+  color: #140212;
+}
+
+
 footer {
   background: #343a40;
   color: white;
